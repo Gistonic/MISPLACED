@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dbc3b2c5489eea749b3ac6c1a756ba7b
+timeCreated: 1488641404
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alien League
+  fontNames:
+  - Alien League
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
